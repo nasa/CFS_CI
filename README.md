@@ -11,3 +11,8 @@ The cFS is a platform and project independent reusable software framework and se
 The Command Ingest (CI) Application is responsible for receiving commands from an external source (such as a ground station) over a transport channel, and to forward the command to the appropriate application over the cFE Software Bus (SB).
 
 
+
+This software is licensed under the NASA Open Source Agreement. 
+http://ti.arc.nasa.gov/opensource/nosa
+
+
